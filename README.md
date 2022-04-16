@@ -59,6 +59,12 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
+## Links :
+Template Download Link : https://themewagon.com/themes/famms-free-responsive-bootstrap-4-e-commerce-website-template/
+Admin Template Download Link : https://github.com/yaminshakil/AdminTemplate/tree/master
+Youtube playlist: https://www.youtube.com/playlist?list=PLm8sgxwSZofdIdWQxDhg3HUplNJIZRjqb
+
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
